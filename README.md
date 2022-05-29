@@ -9,6 +9,3 @@ I OWN NONE OF THE ASSETS USED IN THIS PROJECT! ALL ASSETS EITHER BELONG TO THQ, 
 Project Files will be avalible once its complete or when im just dont with it.
 
 Download From Tags or Clone the Repo. Feel Free to leave issues or any suggestions. If you leave suggestion just make sure you include what you thing should be replaced or changed.
-
-Version 0.11a
-(No Menu in this build. Just opens to Whats there.)
