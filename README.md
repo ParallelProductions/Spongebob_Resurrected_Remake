@@ -9,3 +9,5 @@ I OWN NONE OF THE ASSETS USED IN THIS PROJECT! ALL ASSETS EITHER BELONG TO THQ, 
 Project Files will be avalible once its complete or when im just dont with it.
 
 Download From Tags. Feel Free to leave issues or any suggestions. If you leave suggestion just make sure you include what you thing should be replaced or changed.
+
+Sub To me at https://www.youtube.com/c/ParallelProductionsYT for all things homebrew.
