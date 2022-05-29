@@ -1,0 +1,13 @@
+Controls:
+
+WASD: Walking
+
+Mouse: Look Around
+
+Q: Stats
+
+Space Bar: Jump
+(Press While In The Air For Extra Air time to get further)
+
+C: Crouch
+(Jump and Release C for a Higher Jump)
