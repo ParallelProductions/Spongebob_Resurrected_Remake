@@ -11,3 +11,6 @@ Space Bar: Jump
 
 C: Crouch
 (Jump and Release C for a Higher Jump)
+
+Tab: Change Camera
+(Third Person, Extended Third Person, Basic First Person)
