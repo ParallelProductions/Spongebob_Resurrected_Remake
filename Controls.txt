@@ -14,3 +14,6 @@ C: Crouch
 
 Tab: Change Camera
 (Third Person, Extended Third Person, Basic First Person)
+
+E: Attack (as of V0.0.3a)
+(Doesnt actually do anything but play animation as of right now)
