@@ -1,3 +1,16 @@
+Changelog V0.0.3a:
+
+-Some Internal Changes to how SpongeBob works.
+-Door Texture Changed (Not Permanent) 
+-Added WIP Krusty Krab Menu Area
+-Alpha HUD is Finished. (Will Improve Over Time)
+-Added Onto the first cutscene but is not finished **(GAME SOFTLOCKS AT END CAUSE THE CODE IS UNFINISHED! THATS WHY THE LEVEL DOESNT LOAD INTO THE CUTSCENE)**
+-Added Crate Physics Test
+-Hookie Test is there but is **UNFINISHED AND DOES NOT WORK PROPERLY!**
+-Some more things added but not yet implemented even for testing. (Downtown Bikini Bottom Area, etc.)
+-Added Android Support! (Untested!)
+-Some Optimizations for Lower Spec devices.
+
 Changelog V0.0.2a:
 
 -More Mechanics from the original game are brought to UE5.
