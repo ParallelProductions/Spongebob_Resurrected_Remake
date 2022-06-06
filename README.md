@@ -1,6 +1,6 @@
 This is a Remaster/Remake of SpongeBob SquarePants: Revenge of the Flying Dutchman for the PS2/GC in Unreal Engine 5.
 
-<a href="https://imgur.com/a/DlXypsi"><img src="https://i.imgur.com/oQmkeL3.jpeg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/gallery/CoSd0zT"><img src="https://i.imgur.com/lHYvRMM.jpeg" title="source: imgur.com" /></a>
 
 I am doing this project solo and with NO ORIGINAL SOURCE CODE! So Progress may be slow.. 
 But it was a game i really enjoyed as a kid so i figured why not try to remake it.
