@@ -11,6 +11,7 @@ Space Bar: Jump
 
 C: Crouch
 (Jump and Release C for a Higher Jump)
+(Move While Crouched to Roll Around [Buggy])
 
 Tab: Change Camera
 (Third Person, Extended Third Person, Basic First Person)
