@@ -5,7 +5,7 @@ This is a Remaster/Remake of SpongeBob SquarePants: Revenge of the Flying Dutchm
 I am doing this project solo and with NO ORIGINAL SOURCE CODE! So Progress may be slow.. 
 But it was a game i really enjoyed as a kid so i figured why not try to remake it.
 
-<a href="https://imgur.com/gallery/CoSd0zT"><img src="https://i.imgur.com/xwKDXwY.jpeg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/gallery/zjy1TYT"><img src="https://i.imgur.com/qQufiwo.jpg" title="source: imgur.com" /></a>
 
 I OWN NONE OF THE ASSETS USED IN THIS PROJECT! ALL ASSETS EITHER BELONG TO THQ, THQ NORDIC, OR ARE FOUND ONLINE FOR FREE!
 Project Files will be avalible once its complete or when im just done with it.
